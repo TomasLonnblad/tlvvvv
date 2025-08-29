@@ -160,13 +160,13 @@ export default function Home() {
               <DropdownMenuItemIndicator>
                 <DotFilledIcon />
               </DropdownMenuItemIndicator>
-              Pedro Sanchez
+              Tomas Lönnblad
             </DropdownMenuRadioItem>
             <DropdownMenuRadioItem value="pablo">
               <DropdownMenuItemIndicator>
                 <DotFilledIcon />
               </DropdownMenuItemIndicator>
-              Pablo Sanchez
+              Tomas Lönnblad
             </DropdownMenuRadioItem>
           </DropdownMenu.RadioGroup>
         </DropdownMenu.Content>
